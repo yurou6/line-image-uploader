@@ -9,7 +9,7 @@
 - 自動記錄上傳歷史
 
 ## 安裝
-1. 克隆倉庫
+1. 下載repo
 ```bash
 git clone git@github.com:yurou6/line-image-uploader.git
 cd line-image-uploader
